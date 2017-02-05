@@ -56,7 +56,6 @@ var App = function (_Component) {
         };
 
         _this.videoSearch('reactjs');
-
         return _this;
     }
 
